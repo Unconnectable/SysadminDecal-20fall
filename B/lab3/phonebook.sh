@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# I won't do this shell#
 PHONEBOOK_ENTRIES="bash_phonebook_entries"
 
 
