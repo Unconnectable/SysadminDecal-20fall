@@ -1,10 +1,7 @@
 #!/usr/bin/env python
-
-from genericpath import isfile
-from pydoc import ispath
+#未实现remove功能
 import sys
 import os
-from turtle import Turtle
 
 PHONEBOOK_ENTRIES = "python_phonebook_entries"
 
